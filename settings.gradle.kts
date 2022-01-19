@@ -8,4 +8,4 @@
  */
 
 rootProject.name = "simpleperf-cleanup"
-include("lib")
+include("app")
