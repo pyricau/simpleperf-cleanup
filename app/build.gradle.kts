@@ -19,6 +19,8 @@ dependencies {
 
     implementation("com.google.protobuf:protobuf-java:3.19.3")
 
+    implementation("com.google.guava:guava:30.1.1-jre")
+
     // Use the Kotlin test library.
     testImplementation("org.jetbrains.kotlin:kotlin-test")
 
