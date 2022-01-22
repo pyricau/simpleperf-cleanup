@@ -10,3 +10,5 @@ This will generate a new trace file named `PATH/TO/TRACE-fixed.trace`. Any main 
 that wasn't rooted in the same stack frame as the first encountered will be "fixed": it's
 callchain will be prepended with the common callchain shared by the previous and the next valid
 sample.
+
+Learn more: https://py.hashnode.dev/fixing-simpleperf-broken-records
